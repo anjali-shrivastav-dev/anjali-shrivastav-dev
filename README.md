@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/anjalishrivastav2411" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:shrivastav24anjali@gmail.com">
+<a href="mailto:shrivastav24anjali@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/anjali-shrivastav-dev" target="_blank">
