@@ -272,7 +272,7 @@ Built responsive, cross-browser web pages and UI components under an AICTE OIB-S
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anjali-shrivastav-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B794F4&icon_color=8B5CF6&text_color=c9d1d9&ring_color=6D28D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-shrivastav-dev&theme=radical&hide_border=true&background=0d1117&stroke=6D28D9&ring=8B5CF6&fire=B794F4&currStreakLabel=B794F4" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=anjali-shrivastav-dev&theme=radical&hide_border=true&background=0d1117&stroke=6D28D9&ring=8B5CF6&fire=B794F4&currStreakLabel=B794F4" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-shrivastav-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B794F4&text_color=c9d1d9" width="49%"/>
 
