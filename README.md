@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Anjali%20Shrivastav&fontSize=48&fontColor=D6BCFA&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&descColor=B794F4" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B794F4&center=true&vCenter=true&width=600&lines=Building+Scalable%2C+AI-Powered+Products;Final-Year+B.Tech+CSE+(AI%2FML)+%7C+CGPA+8.84%2F10.0;Full-Stack+Engineer+%2B+Applied+ML+Practitioner;Ex-VECC+(DAE)+%7C+GenHire+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B794F4&center=true&vCenter=true&width=800&lines=Building+Scalable%2C+AI-Powered+Products;Final-Year+B.Tech+CSE+(AI%2FML)+%7C+CGPA+8.84%2F10.0;Full-Stack+Engineer+%2B+Applied+ML+Practitioner;Ex-VECC+(DAE)+%7C+GenHire+Founder" alt="Typing SVG" />
 </a>
 
 <br/>
